@@ -45,6 +45,8 @@ I started my developer journey when I was in school. I used to get programming k
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuvamPrasd&hide=typescript,glsl)](https://github.com/SuvamPrasd/github-readme-stats)
+
 ### My Certfications 📒
 
 - [x] User Experience Design Essentials - Adobe XD UI/UX Design online
