@@ -62,6 +62,8 @@ I started my developer journey when I was in school. I used to get programming k
 - :earth_asia: Corona Tracker Web App [View Live](https://suvamprasd.github.io/coronaTracker.github.io/)
 - :computer: CRUD REST API with Node, Express and MongoDB [View](https://github.com/SuvamPrasd/Rest-api-mongodb)
 
+![Suvam's github stats](https://github-readme-stats.vercel.app/api?username=SuvamPrasd&show_icons=true&theme=radical)
+
 ### Contact Me
 
 [<img align="left" src="https://image.flaticon.com/icons/png/512/61/61109.png" width="22px"/>](https://www.linkedin.com/in/suvamprasad/)
