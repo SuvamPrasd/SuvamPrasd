@@ -4,7 +4,7 @@
 I started my developer journey when I was in school. I used to get programming knowledge through various resources such as the internet, books, or community. I get into the UX/UI design to create elegant, minimalistic, excellent web, or app design using different tools. Besides designing, I am also a web developer, flutter developer, and programmer. I believe in sharing ideas, opinions, and process new thoughts. 😎
 
 ![gif image](https://media.giphy.com/media/KfkokuEaXhAbShYYVg/giphy.gif)\
-<img align="left" alt="Visual Studio Code" width="26px" src="https://media.giphy.com/media/KfkokuEaXhAbShYYVg/giphy.gif" />
+<img align="left" alt="Visual Studio Code" width="100" src="https://media.giphy.com/media/KfkokuEaXhAbShYYVg/giphy.gif" />
 
 - **_UX/UI Designer_** 🎨
 - **_Flutter App Developer_** 📱
